@@ -1,5 +1,5 @@
 ```
-loadstring(game:HttpGet('https://github.com/hyperionlawl/cosmotologyhahas/raw/main/API/AlysseUNC.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/hyperionlawl/cosmotologyhahas/main/haha.lua'))()
 ```
 
 29/11/24 MARK YOUR CALENDARS. 🤫📆
