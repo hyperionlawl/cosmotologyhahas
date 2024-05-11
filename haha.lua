@@ -1,0 +1,3 @@
+--loadstring(game:HttpGet('link'))()
+-- wait(6)
+-- obsfucated
